@@ -7,19 +7,19 @@ db.inventory.insertOne({
 
 db.inventory.insertMany(
 [{
-    name : "Nairita",
+    name : "Hemant",
     age : "19",
     branch : "CSE",
     course : "C++ Stl"
 },
 {
-    name : "Dodo",
+    name : "Sam",
     age : "21",
     branch : "CSE",
     course : "C++ Stl"
 },
 {
-    name : "Bubu",
+    name : "Ramesh",
     age : "21",
     branch : "CSE",
     course : "C++ Stl"

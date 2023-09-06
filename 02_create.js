@@ -21,7 +21,7 @@ db.inventory.insertMany(
 {
     name : "Ramesh",
     age : "21",
-    branch : "CSE",
+    branch : "CSE old",
     course : "C++ Stl"
 }
 ])

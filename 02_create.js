@@ -15,7 +15,7 @@ db.inventory.insertMany(
 {
     name : "Sam",
     age : "21",
-    branch : "CSE",
+    branch : "CSE new",
     course : "C++ Stl"
 },
 {
